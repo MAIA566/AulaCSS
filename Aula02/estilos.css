@@ -1,0 +1,29 @@
+body
+{
+    margin: 0;
+    padding: 0;
+}
+
+h1
+{
+    color: honeydew;
+    background-color: azure;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+.conteudo
+{
+    font-size: 20px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.subitiltulo
+{
+    font-size: 30px;
+    color: azure;
+    font-weight: bold;
+    text-decoration: underline;
+}
